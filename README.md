@@ -1,6 +1,8 @@
 # libimobiledevice-win64
 An easy-to-build, Visual Studio 2015 compatible version of the latest Libimobiledevice for 64-bit Windows.
 
+### If you're just too lazy to build it (don't worry, I understand) just grab a precompiled release: https://github.com/exaphaser/libimobiledevice-win64/releases/latest
+
 # Instructions
 - Clone, go into the `libimobiledevice-windows` directory
 Get openssl from http://slproweb.com/products/Win32OpenSSL.html; you need both 32 bit and 64 bit installers, 
