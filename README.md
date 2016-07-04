@@ -20,7 +20,7 @@ OpenSSL-Win32
 OpenSSL-x64
 vendors
 
-- Finally, open the `.SLN` with VS2015, and build.
+- Finally, open the `.SLN` with VS2015, and build. Be sure to use the `x64` configuration!
 
 This project's source code comes from [https://github.com/libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice), a version specifically for Linux that is quite difficult to build on Windows, even with Cygwin. This project includes modifications from Polyfun.
 
